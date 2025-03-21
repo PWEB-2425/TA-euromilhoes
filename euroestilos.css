@@ -1,0 +1,22 @@
+div.numeros,div.estrelas {
+            display: inline-block;
+        }
+        .chave li {
+            display : inline-block;
+            border-style: solid;
+            border-width: 3px;
+            border-color: darkolivegreen;
+            margin : 5px;
+            text-align: center;
+            border-radius: 20%;
+            width : 2em;
+            height : 2em;
+            line-height: 2em;
+            vertical-align: middle;
+        }
+        .chave .numeros li {
+            background-color: aquamarine;
+        }
+        .chave .estrelas li {
+            background-color: gold;
+        }
